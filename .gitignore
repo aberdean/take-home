@@ -1,10 +1,8 @@
 # Mac OS X clutter
 .DS_Store
 
-# Generated files
-bin/
-gen/
-out/
+# Windows clutter
+Thumbs.db
 
 # Built application files
 *.apk
